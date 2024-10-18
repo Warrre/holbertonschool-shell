@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 644 folder1 folder2 folder3 file1 file2 file3 
+find -type d -exec chmod a+x{} +  
