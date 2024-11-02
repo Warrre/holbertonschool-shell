@@ -1,0 +1,11 @@
+# List files in long format
+alias ll="ls -l"
+
+# List all files including hidden ones
+alias la="ls -la"
+
+# Add confirmation prompt to rm
+alias rm="rm -i"
+
+# Make mkdir create parent directories automatically
+alias mkdir="mkdir -p"
