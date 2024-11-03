@@ -1,9 +1,2 @@
 #!/bin/bash
-echo "Local Variables:"
-set -o posix; set | grep -v "^_="
-
-echo -e "\nEnvironment Variables:"
-printenv
-
-echo -e "\nFunctions:"
-declare -F | cut -d' ' -f3
+set
