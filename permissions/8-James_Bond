@@ -1,2 +1,2 @@
 #!/bin/bash
-useradd
+chmod 007 hello
