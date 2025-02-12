@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.2F\n" $nUm
+printf "%.2F\n" $NUm
